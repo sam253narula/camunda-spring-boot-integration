@@ -50,11 +50,11 @@ Then you can access Camunda Webapps in browser: `http://localhost:8080` (provide
 ## Now the procedure to run it is as below:
 Click on Tasklist, then click on start process and select the Payment Retrieval process and enter the below parameters(enter any one of the case at a time)
 
-Case 1:
+`Case 1`:
 amount : Integer: 900
 item : String: item-xyz
 
-Case 2:
+`Case 2`:
 amount : Integer: 1500
 
 Now click on start button and refresh the page and the task will appear, if it does not appear on the UI, then click on the filter link on the left side of the web page.
